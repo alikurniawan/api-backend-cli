@@ -11,7 +11,7 @@ app.use(bodyparser.json())
 app.use(cors());
 
 let todoList = [
-  { todo: "Learn express", done: false },
+  { todo: "Learn expresss", done: false },
   { todo: "Learn nodejs", done: true }
 ]
 
